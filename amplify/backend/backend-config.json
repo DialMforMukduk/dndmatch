@@ -22,5 +22,29 @@
         ]
       }
     }
+  },
+  "function": {
+    "DnDUserProfilesTrigger763aa8b8": {
+      "service": "Lambda",
+      "providerPlugin": "awscloudformation",
+      "build": true,
+      "dependsOn": [
+        {
+          "category": "storage",
+          "resourceName": "DnDUserProfiles",
+          "attributes": [
+            "Name",
+            "Arn",
+            "StreamArn"
+          ]
+        }
+      ]
+    }
+  },
+  "storage": {
+    "DnDUserProfiles": {
+      "service": "DynamoDB",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }

@@ -1,0 +1,7 @@
+{
+    "tableName": "DnDUserProfiles",
+    "partitionKeyName": "uuid",
+    "partitionKeyType": "N",
+    "sortKeyName": "Username",
+    "sortKeyType": "S"
+}

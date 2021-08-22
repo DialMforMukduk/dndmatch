@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "dndmatcha0235b6e": {}
+      },
+      "function": {
+        "DnDUserProfilesTrigger763aa8b8": {
+          "deploymentBucketName": "amplify-dndmatch-dndback-165115-deployment",
+          "s3Key": "amplify-builds/DnDUserProfilesTrigger763aa8b8-75626373766c4c745543-build.zip"
+        }
       }
     }
   }

@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          The inital commit. Part 1
+          The inital commit. Part 1. Testing CI/CD with github and amplify rn.
         </p>
         <a
           className="App-link"

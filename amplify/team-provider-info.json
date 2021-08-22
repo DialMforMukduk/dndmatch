@@ -1,0 +1,20 @@
+{
+  "dndback": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dndmatch-dndback-165115-authRole",
+      "UnauthRoleArn": "arn:aws:iam::407121762042:role/amplify-dndmatch-dndback-165115-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::407121762042:role/amplify-dndmatch-dndback-165115-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-dndmatch-dndback-165115-deployment",
+      "UnauthRoleName": "amplify-dndmatch-dndback-165115-unauthRole",
+      "StackName": "amplify-dndmatch-dndback-165115",
+      "StackId": "arn:aws:cloudformation:us-east-2:407121762042:stack/amplify-dndmatch-dndback-165115/792a9210-039b-11ec-9588-020690285744",
+      "AmplifyAppId": "d7gcfssfv8j8x"
+    },
+    "categories": {
+      "auth": {
+        "dndmatcha0235b6e": {}
+      }
+    }
+  }
+}
